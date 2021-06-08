@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KokoBector
-- 👀 I’m interested in learning new things in life.I have worked on projects involving Cobol, FoxPrp and .Net. Retired from the 
+- 👀 I’m interested in learning new things in life.I have worked on projects involving Cobol, FoxPro and .Net. Retired from the 
      City of New York after 20 years having worked as 'Budget Officer' and 'Computer Programmer'. Just completed a certificate in 
      Data Analysis from IBM.
 - 🌱 I’m currently studying for a certificate in Python Basics for Data Science.
